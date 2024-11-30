@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Sour+Gummy&display=swap');
+
+body {
+    background-color: #A2D2FF;
+    font-size: 28px;
+    font-family: 'Sour Gummy';
+    color: white;
+}
+
+h1 {
+    text-align: center;
+    font-size: 52px;
+}
